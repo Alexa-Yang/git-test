@@ -8,3 +8,4 @@ hello world master test
 hello world hot-fix test
 version:2
 update: branch hot-fix 01
+github test
