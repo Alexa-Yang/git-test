@@ -9,3 +9,4 @@ hello world hot-fix test
 version:2
 update: branch hot-fix 01
 github test
+ssh config 666
