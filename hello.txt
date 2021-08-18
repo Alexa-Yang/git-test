@@ -9,4 +9,5 @@ hello world hot-fix test
 version:2
 update: branch hot-fix 01
 github test
-ssh config 666
+ssh config 666 
+键盘敲烂，年薪百万
